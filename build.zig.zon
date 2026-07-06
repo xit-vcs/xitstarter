@@ -3,8 +3,8 @@
     .version = "0.0.0",
     .dependencies = .{
         .xit = .{
-            .url = "git+https://github.com/xit-vcs/xit#0d4a1d01109ba9f028e2a1f203573e83ff6e28cd",
-            .hash = "xit-0.0.0-Ub3nDIvvTwFgk-uwVrHVGC6P9a6lp5XhUILilG6qy1nS",
+            .url = "git+https://github.com/xit-vcs/xit#bba40effe0123b8f91b174efc5642948b1ae40b4",
+            .hash = "xit-0.0.0-Ub3nDFB_UAENpINnJEx0gk0jflswCHmw-Mbnk8x7lipY",
         },
     },
     .paths = .{
